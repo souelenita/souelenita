@@ -1,4 +1,6 @@
-#### Hi! I'm Elenita Oliveira 
+<h1 align="center">Hi 👋🏾, I'm Elenita! </h1>
+
+I'm a 25 years old fullstack developer focused on Java and Angular. Tech enthusiast, Musician and Catholic Missionary. Feel free to contact me on my social medias!
 
 <!--
 **lenananita/lenananita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +21,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/souelenita"><img src="https://img.shields.io/github/followers/souelenita.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/elenita-o/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/souelenita"><img src="https://img.shields.io/twitter/follow/souelenita?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/souelenita"><img src="https://img.shields.io/twitter/follow/elenitareal?label=Twitter&style=social" alt="Twitter"></a>
 </p>
+
